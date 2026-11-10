@@ -1,0 +1,6 @@
+{
+  "name": "SafeResponse",
+  "description": "Smart Emergency Response & Disaster Management Platform for centralized incident reporting, AI-assisted severity triage, and response coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
